@@ -3,4 +3,4 @@ openai
 pypdf
 chroma
 tiktoken
-pysqlite2-binary
+pysqlite3-binary
