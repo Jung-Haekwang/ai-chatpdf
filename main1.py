@@ -8,7 +8,7 @@ sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from langchain.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
-from langchain_vectorstores import Chroma
+from langchain_Chroma import Chroma
 from langchain_chat_model import ChatOpenAI
 from langchain.chains import RetrievalQA
 import streamlit as st
