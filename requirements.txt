@@ -4,5 +4,3 @@ pypdf
 chroma
 tiktoken
 pysqlite3-binary
-langchain_community
-langchain_openai
