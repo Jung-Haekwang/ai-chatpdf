@@ -7,4 +7,3 @@ pysqlite3-binary
 langchain-community
 langchain-openai
 langchain-chroma
-llama-cpp-python==0.1.83
