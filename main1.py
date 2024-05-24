@@ -15,6 +15,8 @@ import streamlit as st
 import tempfile
 import os
 
+OpenAI_API_Key="sk-proj-8hU8zcCo35TM3FmMXmHNT3BlbkFJ4b8jrHNWE36WlXJcFVVV"
+
 # 제목
 st.title("ChatPDF")
 st.write("---")
