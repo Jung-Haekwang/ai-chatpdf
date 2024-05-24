@@ -3,8 +3,8 @@ openai
 pypdf
 chroma
 tiktoken
-pysqlite3-binary
+# pysqlite3-binary
 langchain-community
 langchain-openai
 langchain-chroma
-pydantic==1.9.0
+# pydantic==1.9.0
