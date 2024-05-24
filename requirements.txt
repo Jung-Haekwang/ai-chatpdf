@@ -7,4 +7,4 @@ tiktoken
 langchain-community
 langchain-openai
 langchain-chroma
-# pydantic==1.9.0
+pydantic
