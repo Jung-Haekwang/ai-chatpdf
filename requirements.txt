@@ -5,3 +5,4 @@ chroma
 tiktoken
 pysqlite3-binary
 langchain-community
+langchain-openai
