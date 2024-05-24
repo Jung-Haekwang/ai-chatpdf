@@ -48,7 +48,7 @@ if uploaded_file is not None :
     texts = text_splitter.split_documents(pages)
 
     # Embedding
-    embeddings_model = OpenAIEmbeddings()
+    embeddings_model = OpenAIEmbeddings(model="text-embedding-3-large")
 
     # load it into Chroma
     db = Chroma.from_documents(texts, embeddings_model)
